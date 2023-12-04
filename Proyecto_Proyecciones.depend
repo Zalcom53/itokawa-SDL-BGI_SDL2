@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1652741048 source:c:\users\sebastian rivera\documents\classes en linea q\graficacion\codigos\proyecto_proyecciones\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<time.h>
+	<math.h>
+	"proyecciones.h"
+	"utilidades.h"
+
+1652658696 c:\users\sebastian rivera\documents\classes en linea q\graficacion\codigos\proyecto_proyecciones\proyecciones.h
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<time.h>
+	<math.h>
+	"utilidades.h"
+
+1652663756 c:\users\sebastian rivera\documents\classes en linea q\graficacion\codigos\proyecto_proyecciones\utilidades.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+	"proyecciones.h"
+
+1652741705 source:c:\users\sebastian rivera\documents\classes en linea q\graficacion\codigos\proyecto_proyecciones\proyecciones.cpp
+	"proyecciones.h"
+
+1652741084 source:c:\users\sebastian rivera\documents\classes en linea q\graficacion\codigos\proyecto_proyecciones\utilidades.cpp
+	"utilidades.h"
+
